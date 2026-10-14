@@ -27,3 +27,9 @@ Hi there! 👋 I'm a developer sharing my learning curve.
 - 📷 [Guns.lol](https://guns.lol/polinz)
 - 🐦 [X / Twitter](https://x.com/Polinzfr)
 - 📧 polinzfr@proton.me
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polinzfr/polinzfr/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake animasyonu" src="https://raw.githubusercontent.com/polinzfr/polinzfr/output/github-contribution-grid-snake.svg">
+</picture>
